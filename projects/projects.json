@@ -1,0 +1,35 @@
+[
+    {
+      "name": "Car and Bike Rental Website",
+      "desc": "A Car and Bike Rental Website delivers a sophisticated and intuitive platform for users seeking seamless vehicle rental experiences. Crafted with the latest HTML, CSS, and JavaScript technologies, this dynamic website offers an elegant and responsive design that adapts to any device. It boasts an array of advanced features, including streamlined vehicle booking management, real-time availability tracking."
+      
+      
+    },
+    {
+      "name": "Real Time Chat Application",
+      "desc": "Real-Time Chat Application represents the pinnacle of interactive technology, seamlessly integrating HTML, CSS, ReactJS, Node.js, JavaScript, and MongoDB to deliver an exceptional user experience. Designed for instant connectivity, this platform enables live chatting with low latency and robust performance. Users can engage in real-time conversations, create group chats, and access message history."
+     
+    },
+    {
+      "name": "Fitness Website",
+      "desc": "Fitness Website, built using HTML, CSS, ReactJS, and JavaScript, offers a engaging platform for health and wellness enthusiasts. This dynamic website is designed to provide users with an immersive fitness experience, featuring an array of interactive tools and resources. It includes detailed workout plans, personalized fitness programs, and expert guidance tailored to various fitness levels and goals. combined with real-time updates and responsive design."
+      
+    },
+    {
+      "name": "Gaming Fun Zone",
+      "desc": "Gaming Fun Zone Website, expertly crafted with HTML, CSS, and JavaScript, offers an immersive destination for gaming enthusiasts to explore and enjoy a rich array of gameplay videos. This engaging platform features an extensive video gallery showcasing dynamic gameplay footage from popular games such as PUBG and Cricket, along with a variety of other titles. With a sleek, user-friendly interface."
+     
+    },
+    {
+      "name": "E-commerce Website",
+      "desc": "E-Commerce Website, developed with HTML, CSS, ReactJS, Node.js, JavaScript, and MongoDB, offers a premier shopping experience characterized by its modern design and robust functionality. This platform provides users with an extensive catalog of products, detailed listings, and intuitive search features, enabling effortless browsing and comparison.Also responsive and user-friendly interface provided."
+     
+    },
+    {
+      "name": "BMI Calculator",
+      "desc": "BMI Calculator project, developed using Python with the help ofTkinter, delivers a user-friendly tool for assessing body mass index and overall health. This intuitive application features a sleek interface that simplifies the process of calculating BMI with just a few inputs. Users can easily enter their height and weight to receive instant feedback on their BMI status, accompanied by personalized health recommendations. "
+      
+    }
+    
+  ]
+  
